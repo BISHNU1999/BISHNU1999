@@ -1,5 +1,5 @@
 ### Hi there 👋
-BC KHANKI
+
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BISHNU1999&theme=dark&show_icons=true)
 
 <!--
